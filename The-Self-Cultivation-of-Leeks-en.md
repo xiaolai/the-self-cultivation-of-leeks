@@ -5,6 +5,8 @@ by *Li Xiaolai*
 English Translation: *John Gordan*
 
 -----
+
+* [Preface](#preface)
 * [1. Who are the “leeks” that they are really referring to?](#1-who-are-the-leeks-that-they-are-really-referring-to)
 * [2. Where the fate of “leeks” begins…](#2-where-the-fate-of-leeks-begins)
 * [3. “Leeks” only have a future if they mend the pen after having lost sheep…](#3-leeks-only-have-a-future-if-they-mend-the-pen-after-having-lost-sheep)
@@ -39,7 +41,7 @@ English Translation: *John Gordan*
       * [6. What have we done in the past?](#6-what-have-we-done-in-the-past)
       * [7. Why open-source my investing principles?](#7-why-open-source-my-investing-principles)
       * [8. Principles](#8-principles)
-
+      
 -----
 
 ##Preface
