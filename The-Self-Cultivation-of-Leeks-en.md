@@ -246,7 +246,7 @@ In a bull market, most people make money, and the amount lost by a few pales in 
 
 **So, this is not at all a “zero-sum game”!**
 
-In fact, in the tail end of a bull market, people buy at a price that is fattened by hormones, no matter who they are. In the tail end of a bear market, people by at a starved price, no matter who they are..
+In fact, in the tail end of a bull market, people buy at a price that is fattened by hormones, no matter who they are. In the tail end of a bear market, people buy at a starved price, no matter who they are...
 
 In an open market, no one can point a gun at you and force you to trade, everyone trades by their own will… Then why are people overjoyed when they willingly buy, but later on start to utter cries of anguish? We need an explanation. Yes, we all need to give ourselves a clear explanation, to explain the awkward situations we find ourselves in.
 
@@ -301,7 +301,7 @@ We all live in such a beautiful world, but just because of one small misstep lee
 
 A psychologist came to this conclusion in a paper: there are no bad people in this world, only *good* people, *stupid* people and *sick* people. In my view, a lot of sickness comes from stupidity. Back when I read this paper, all of a sudden I felt that the world had “become” brighter!
 
-## 7. Who said “leeks” don’t care about finding finding value…
+## 7. Who said “leeks” don’t care about finding value…
 
 Be very careful about assuming that those who are talking about “value investing” are those who act and make judgements in accordance with “value investing”. If you’re often confused by superficial representations, then your trading results can only be very poor.
 
@@ -439,7 +439,7 @@ If the other person told me that they would borrow 100 RMB and return 150 RMB to
 
 A bit confusing? Don’t worry, in the beginning piling up several layers of simple things seems very complicated and not very intuitive. Reading multiple times is the key to reading any book.
 
-In the above example, the actual cost comes from the the pressure you feel from from the “identical risk” — that you might lose 100 RMB. If it turns out that your monthly income is six figures, then you might even say to the other party, “Forget it, there’s no need to pay me back!” If you’re a poor kid in university who totally depends on support from parents, then 100 RMB might be your meal fee for a whole day. If it happens to be the end of the month, and all you have left is your last 100 RMB, then that cost is completely unbearable for you.
+In the above example, the actual cost comes from the the pressure you feel from the “identical risk” — that you might lose 100 RMB. If it turns out that your monthly income is six figures, then you might even say to the other party, “Forget it, there’s no need to pay me back!” If you’re a poor kid in university who totally depends on support from parents, then 100 RMB might be your meal fee for a whole day. If it happens to be the end of the month, and all you have left is your last 100 RMB, then that cost is completely unbearable for you.
 
 So you can see that there are many factors to consider in calculating the cost of risk, **but your strength is most important**, followed by risk/reward ratio. See, it’s the same everywhere: strength is most important.
 
@@ -471,7 +471,7 @@ How should you set a stop-loss line?
 
 The price volatility of some targets is naturally much more extreme than others. The price volatility of bitcoin is countless times greater than that of the US dollar on foreign exchange markets. During the early days, the price of bitcoin even fell 80% in one hour, or it could rise 500% in an hour… 
 
-You can estimate the “daily volatility” of a trading target. If the daily volatility is 25%, your stop-loss line — in other words, “the biggest loss you can bear” — should be greater than 25% (40%, for example). 
+You can estimate the “daily volatility” of a trading target. If the daily volatility is 25%, your stop-loss line — in other words, “the biggest loss you can bear” — should be greater than 25% (40%, for example)... Because risk is what you are considering - especialy strong price volatility in trading markets - **"preparing for the worst" is always more prudent than "blind optimism". 
 
 As to where exactly to set the stop-loss line, there are many factors that can play a role. The trader’s personality might even be one of the important factors. The most frustrating thing is that in the moment it is your personality that really decides your behavior. But, when we look back and think about it, your personality in the moment is more likely to have been decided by your long-term behavior. 
 
@@ -479,9 +479,11 @@ At this point, most “leeks” are totally confused — they discover that ther
 
 So they’re all the same: when someone patiently explains the principles to them they quickly grow weary (notice that it’s not that they lack patience, but that they lack brain power). They all say the same thing: “Just tell me whether or not I should buy!” (This is fun: you might as well think about why they don’t ask the opposite:  “Just tell me whether or not I should sell!)
 
+**If you want to avoid the fate of leeks, just train your brain.** A brain isn't a good thing, it's a trained brain that is a good thing - you don't need to just train it, you need to train it correctly, train it well, and train it constantly.
+
 So what do leeks do? They have learned to set a stop-loss line, but even though this is “progress”, the result is worse than no progress, because they haven’t calculated the stop-loss line at all, and instead completely rely on “leek instinct”. For instance, for a target with a daily trading volatility of 25%, they set their stop-loss line at 10% or 20%…
 
-The result of doing this is another side effect that to them is completely “unexpected”. Because they have, through their own wishful thinking, lowered the denominator, even a small gain has a “high risk/reward ratio” to them. So all of their trades are “bad business”, but they never know where they made a mistake. In they end, all they can do is be like those people who are superstitious due to ignorance. They don’t see how they have been “cut”, so all they can perceive is that “someone has earned my money” (actually this is a mistaken conclusion)… So they curse the "market manipulators" every day while secretly hoping that they can make friends with a "market manipulator"  and even secretly harboring the hope that they can become a "market manipulator" themselves one day…
+The result of doing this is another side effect that to them is completely “unexpected”. Because they have, through their own wishful thinking, lowered the numerator, even a small gain has a “low risk/reward ratio” to them. So all of their trades are “bad business”, but they never know where they made a mistake. In they end, all they can do is be like those people who are superstitious due to ignorance. They don’t see how they have been “cut”, so all they can perceive is that “someone has earned my money” (actually this is a mistaken conclusion)… So they curse the "market manipulators" every day while secretly hoping that they can make friends with a "market manipulator"  and even secretly harboring the hope that they can become a "market manipulator" themselves one day…
 
 Anyway, when setting a stop-loss line, you must not depend on wishful thinking. At least now you know that there is one factor you can count on:
 
@@ -523,15 +525,15 @@ The hallucination of leeks is that with their behavior they show that they belie
 
 The huge benefit of reducing trading frequency is evident in another area.
 
-When your trading frequency is higher, it is hard to increase your risk/reward ratio, because in such a short period of time it is extremely unlikely to “suddenly” have huge returns. Even though sometimes you will see “tremendous increases or decreases” in a market with huge volatility, trying to capture these tremendous increases or decreases is precisely the most risky behavior — it’s like trying to take coals from a fire.
+When your trading frequency is higher, it is hard to reduce your risk/reward ratio, because in such a short period of time it is extremely unlikely to “suddenly” have huge returns. Even though sometimes you will see “tremendous increases or decreases” in a market with huge volatility, trying to capture these tremendous increases or decreases is precisely the most risky behavior — it’s like trying to take coals from a fire.
 
-When you **actively** try to reduce trading frequency (notice that I say “actively”, while “unconsciously increasing trading frequency” is the passive behavior that traders have been pushed into by the market), you will discover that this is actually equivalent to actively decreasing your risk/reward ratio, because you actively decreased the numerator (return), without decreasing the denominator (risk).
+When you **actively** try to reduce trading frequency (notice that I say “actively”, while “unconsciously increasing trading frequency” is the passive behavior that traders have been pushed into by the market), you will discover that this is actually equivalent to actively increasing your risk/reward ratio, because you actively decreased the denominator (return), without decreasing the numerator (risk).
 
 When I first started, my trading frequency was also high. It was only after I understood, and started to actively reduce my trading frequency, that I realized that the amount of the return I required to satisfy me was constantly rising. I even gave myself the following rule:
 
 > **Before it increases 10x, treat it as if it doesn’t exist.**
 
-10x! This is a level of return that I never even imagined when my trading frequency was relatively high. Maybe I will change this multiple in the future, but this is a number that could only appear in my my mind after I had actively reduced my trading frequency many times over the long term. I couldn’t have imagined it before.
+10x! This is a level of return that I never even imagined when my trading frequency was relatively high. Maybe I will change this multiple in the future, but this is a number that could only appear in my mind after I had actively reduced my trading frequency many times over the long term. I couldn’t have imagined it before.
 
 It’s counterintuitive that in the market: 
 
@@ -578,7 +580,7 @@ To take it a step further, those who take advantage of the cognitive deficit of 
 
 But honestly, you haven’t seen the even more ruthless “leeks”!
 
-> They know that they’ve “been cut”, so they decide to persist until they can “cut others”. If someone uncovers the truth during this process, and obtructs “their opportunity to cut leeks”, then they will fight with them at all costs.
+> They know that they’ve “been cut”, so they decide to persist until they can “cut others”. If someone uncovers the truth during this process, and obstructs “their opportunity to cut leeks”, then they will fight with them at all costs.
 
 If you’re interested, you can search online for the “Nanjing Qianbaowang” incident. A bunch of so-called “investors” clearly knew they were participating in a Ponzi scheme, but this is what they thought:
 
