@@ -2,7 +2,7 @@
 
 by *Li Xiaolai*
 
-English Translation: *John Gordan*
+English Translation: *John Gordon*
 
 -----
 
