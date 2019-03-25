@@ -1,7 +1,7 @@
 # 韭菜的自我修养 / The self-cultivation of leeks
 
 * [中文版](The-Self-Cultivation-of-Leeks-cn.md) by [@xiaolai](https://github.com/xiaolai)
-* [English Version](The-Self-Cultivation-of-Leeks-en.md) tranlated by John Gordon ([@yjohny](https://github.com/yjohny))
+* [English Version](The-Self-Cultivation-of-Leeks-en.md) translated by John Gordon ([@yjohny](https://github.com/yjohny))
 
 -----
 
