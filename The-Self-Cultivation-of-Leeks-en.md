@@ -4,6 +4,8 @@ by *Li Xiaolai*
 
 English Translation: *John Gordon*
 
+> https://github.com/xiaolai/the-self-cultivation-of-leeks
+
 -----
 
 * [Preface](#preface)

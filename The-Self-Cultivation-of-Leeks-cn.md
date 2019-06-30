@@ -2,6 +2,8 @@
 
 李笑来 2018
 
+> https://github.com/xiaolai/the-self-cultivation-of-leeks
+
 ## 目录
 
 
