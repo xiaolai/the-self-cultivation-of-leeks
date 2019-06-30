@@ -119,7 +119,7 @@ Even though this  definition of “leek” doesn’t really satisfy people with 
 
 Also, let’s add a common feature of so-called “leeks”:
 
-> They severely lack basic reading ability. They are the kind of people who buy things but have never read a manual in their lives. The are the kind of people who, no matter what they get, always ask somebody else how to use it… It’s so common, right?
+> They severely lack basic reading ability. They are the kind of people who buy things but have never read a manual in their lives. They are the kind of people who, no matter what they get, always ask somebody else how to use it… It’s so common, right?
 
 ## 2. Where the fate of “leeks” begins…
 
