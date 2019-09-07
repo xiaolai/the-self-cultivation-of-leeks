@@ -449,7 +449,7 @@ Let’s switch scenes to trading markets.
 
 You see a target, X, that has dropped from a high of 26 RMB to 20 RMB, and you guess that it is likely to go back up to 22 RMB, and at that point you can “cash out”. So you use 500 RMB to buy 25 units. So, what is your risk/reward ratio? Shall we calculate it?
 
-The denominator is your potential return. Once the price has returned to 22 RMB, your total potential return is 50 RMB, while the total amount you have “taken a risk” with is 500 RMB. So your risk/reward ratio is 500:50, or 10:1. How does this ratio look? It’s actually not that great, is it?
+The numerator is your potential return. Once the price has returned to 22 RMB, your total potential return is 50 RMB, while the total amount you have “taken a risk” with is 500 RMB. So your risk/reward ratio is 500:50, or 10:1. How does this ratio look? It’s actually not that great, is it?
 
 But this calculation actually needs to be improved. Because novices don’t set stop loss lines. Or, to be more precise, **“leeks” don’t have the concept of “stop loss”**.  You are different, as you’ve learned and you know you should set stop loss lines, so you set one for yourself: if the price drops to 18 RMB, then you will sell no matter what. 
 
