@@ -46,7 +46,7 @@ English Translation: *John Gordon*
       
 -----
 
-##Preface
+## Preface
 
 This pamphlet  was finally titled *The Self-Cultivation of Leeks*, and there was really nothing I could do about it. “**Leeks**” was never a word that I used to use, but it’s in the title of the book. Why?
 
